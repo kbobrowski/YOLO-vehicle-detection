@@ -2,7 +2,7 @@
 
 Vehicle detection based [YOLO](https://pjreddie.com/darknet/yolo/) trained on [Udacity dataset 2](https://github.com/udacity/self-driving-car/tree/master/annotations). [Darkflow](https://github.com/thtrieu/darkflow) is used for predictions.
 
-Algorithm attempts to stabilize detected frame around car, maintain it in case of a short break in the detection and predict position of a car hidden behid another car.
+Algorithm attempts to stabilize detected frame around car, maintain it in case of a short break in the detection and predict position of a car hidden behind another car.
 
 ## Video
 
