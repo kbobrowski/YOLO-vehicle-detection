@@ -1,4 +1,4 @@
-# YOLO-vehicle-detection
+# YOLO vehicle detection
 
 Vehicle detection based [YOLO](https://pjreddie.com/darknet/yolo/) trained on [Udacity dataset 2](https://github.com/udacity/self-driving-car/tree/master/annotations). [Darkflow](https://github.com/thtrieu/darkflow) is used for predictions.
 
